@@ -1,4 +1,4 @@
-package codingchallenges;
+package oop work;
 
 public class Greeter { // this is a class declaration
 
